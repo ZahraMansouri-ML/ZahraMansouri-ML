@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZahraMansouri-ML
+- 👋 Hi, I’m @Zahra-Mansouri
 - 👀 I’m interested in Applied machine learning
 - 🌱 I’m currently studing PhD in Business Administration
 
